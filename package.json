@@ -1,0 +1,23 @@
+{
+  "name": "TG-robot-demo",
+  "version": "1.0.0",
+  "description": "TG机器人模版 Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WishMelz/TG-robot-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WishMelz/TG-robot-demo/issues"
+  },
+  "homepage": "https://github.com/WishMelz/TG-robot-demo#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
